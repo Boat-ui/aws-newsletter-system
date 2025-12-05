@@ -1,0 +1,19 @@
+﻿PROJECT SUMMARY
+===============
+Project: AWS Newsletter System
+Status: Production
+URL: https://d3o8vrxnvf3ttp.cloudfront.net
+Admin: http://44.220.54.91
+Token: TravelAdmin123
+
+COMPONENTS:
+1. S3 Static Website
+2. CloudFront CDN
+3. Lambda Functions
+4. API Gateway
+5. DynamoDB Database
+6. EC2 Admin Dashboard
+
+AWS ACCOUNT INFO:
+- Region: us-east-1
+- Resources fully deployed
